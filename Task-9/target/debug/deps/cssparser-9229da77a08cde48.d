@@ -1,0 +1,17 @@
+/home/hari/Documents/amFOSS tasks/Task-9/Web-scraping/target/debug/deps/cssparser-9229da77a08cde48.rmeta: /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/lib.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/macros.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/rules_and_declarations.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/color.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/cow_rc_str.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/from_bytes.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/nth.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/parser.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/serializer.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/unicode_range.rs /home/hari/Documents/amFOSS\ tasks/Task-9/Web-scraping/target/debug/build/cssparser-e2608d6b1d480b32/out/tokenizer.rs
+
+/home/hari/Documents/amFOSS tasks/Task-9/Web-scraping/target/debug/deps/cssparser-9229da77a08cde48.d: /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/lib.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/macros.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/rules_and_declarations.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/color.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/cow_rc_str.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/from_bytes.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/nth.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/parser.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/serializer.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/unicode_range.rs /home/hari/Documents/amFOSS\ tasks/Task-9/Web-scraping/target/debug/build/cssparser-e2608d6b1d480b32/out/tokenizer.rs
+
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/lib.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/macros.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/rules_and_declarations.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/color.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/cow_rc_str.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/from_bytes.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/nth.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/parser.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/serializer.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/unicode_range.rs:
+/home/hari/Documents/amFOSS\ tasks/Task-9/Web-scraping/target/debug/build/cssparser-e2608d6b1d480b32/out/tokenizer.rs:
+
+# env-dep:OUT_DIR=/home/hari/Documents/amFOSS tasks/Task-9/Web-scraping/target/debug/build/cssparser-e2608d6b1d480b32/out

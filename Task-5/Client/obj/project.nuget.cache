@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MDuO6w56gi6aA3RTQ+u7L7XO3VY2xhFNjCW8qbhujr247E9XDIYGEM9ndGDRf3aMxROB8+kitMFIteGCt2HbQ==",
+  "success": true,
+  "projectFilePath": "/home/hari/Documents/amFOSS tasks/Task-5/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/hari/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

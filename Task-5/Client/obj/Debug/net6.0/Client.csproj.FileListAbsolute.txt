@@ -1,0 +1,17 @@
+/home/hari/Documents/amFOSS tasks/Task-5/Client/bin/Debug/net6.0/Client
+/home/hari/Documents/amFOSS tasks/Task-5/Client/bin/Debug/net6.0/Client.deps.json
+/home/hari/Documents/amFOSS tasks/Task-5/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/hari/Documents/amFOSS tasks/Task-5/Client/bin/Debug/net6.0/Client.dll
+/home/hari/Documents/amFOSS tasks/Task-5/Client/bin/Debug/net6.0/ref/Client.dll
+/home/hari/Documents/amFOSS tasks/Task-5/Client/bin/Debug/net6.0/Client.pdb
+/home/hari/Documents/amFOSS tasks/Task-5/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.dll
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/ref/Client.dll
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.pdb
+/home/hari/Documents/amFOSS tasks/Task-5/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
