@@ -19,7 +19,7 @@ def movie_info(movie_name):
 
 
 def movie(data):
-    response = "Title: {}\nYear: {}\nRating: {}\nPoster: ".format(
+    response = "Title: {}\nYear: {}\nRating: {}\nPoster: {}".format(
         data.get("Title"), data.get("Year"), data.get("imdbRating"), data.get("Poster"))
     return response
 
@@ -62,23 +62,23 @@ def getMovie(message):
     write_CSV(movieData)
 
 
-def write_CSV(movieData):
+def write_CSV(data):
     titles = ["Title: ", "Year: ", "IMDb Rating: "]
     for title in titles:
-        movieData = movieData.replace(title, "")
-    movieData = movieData.replace("\n", ",")
+        data = data.replace(title, "")
+    data = data.replace("\n", ",")
     file = open("movie_data.csv", "a+")
-    file.write(movieData + '\n')
+    file.write(data + '\n')
     file.close()
     return True
 
 
-@bot.message_handler(func=lambda message: botRunning, command=['export'])
+@bot.message_handler(func=lambda message: botRunning, commands=['export'])
 def getList(message):
     bot.reply_to(message, "Generating CSV file...")
     with open("movie_data.csv", "rb") as file:
         bot.send_document(message.chat.id, document=file,
-                          visible_file_name="stats.csv")
+                          visible_file_name="movies.csv")
 
 
 @bot.message_handler(func=lambda message: botRunning)
