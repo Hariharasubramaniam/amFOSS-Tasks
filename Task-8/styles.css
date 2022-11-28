@@ -121,6 +121,11 @@ h1 {
   opacity: 0.5;
 }
 
+.clicked {
+  box-shadow: 0 3px 4px 0 #ffda07;
+  opacity: 0.5;
+}
+
 .red {
   color: red;
 }

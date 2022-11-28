@@ -1,0 +1,12 @@
+/home/hari/Documents/amFOSS tasks/Task-9/target/debug/deps/regex_automata-ed09b8a3f9dca455.rmeta: /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs
+
+/home/hari/Documents/amFOSS tasks/Task-9/target/debug/deps/regex_automata-ed09b8a3f9dca455.d: /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs
+
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs:

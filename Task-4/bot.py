@@ -1,3 +1,4 @@
+import os
 import telebot
 import requests
 
@@ -36,6 +37,7 @@ def send_welcome(message):
 def send_bye(message):
     global botRunning
     botRunning = False
+    os.remove("movie_data.csv")
     bot.reply_to(message, "Bye!\nHave a good time")
 
 

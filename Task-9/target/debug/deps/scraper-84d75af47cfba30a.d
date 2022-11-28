@@ -1,0 +1,12 @@
+/home/hari/Documents/amFOSS tasks/Task-9/target/debug/deps/scraper-84d75af47cfba30a.rmeta: /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/lib.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/mod.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/element.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/serializable.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/html/mod.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/html/tree_sink.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/node.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/selector.rs
+
+/home/hari/Documents/amFOSS tasks/Task-9/target/debug/deps/scraper-84d75af47cfba30a.d: /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/lib.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/mod.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/element.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/serializable.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/html/mod.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/html/tree_sink.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/node.rs /home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/selector.rs
+
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/lib.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/mod.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/element.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/element_ref/serializable.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/html/mod.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/html/tree_sink.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/node.rs:
+/home/hari/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.12.0/src/selector.rs:
