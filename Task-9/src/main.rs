@@ -8,7 +8,7 @@ fn main() {
 
     let name = scraper::Selector::parse(".css-rkws3").unwrap();
     let price = scraper::Selector::parse(".css-b1ilzc").unwrap();
-    let change = scraper::Selector::parse(".css-dg4gux").unwrap();
+    let change = scraper::Selector::parse(".css-yyku61").unwrap();
 
     let title_selector = scraper::Selector::parse(".css-1nh9lk8").unwrap();
 
