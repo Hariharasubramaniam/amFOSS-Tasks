@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+// import 'dart:ui' show lerpDouble;
+// import 'dart:ui' as ui show Paint, Path, Canvas;
 
 void main() => runApp(MyApp());
 
@@ -23,8 +26,8 @@ class bunnyApp extends State<MyApp> {
 
   Widget build_bgpic(BuildContext context) {
     return Positioned(
-        top: 0,
-        right: 0,
+        top: y_value,
+        right: x_value,
         child: Transform.scale(
             scale: 1.5,
             child: Align(
@@ -51,43 +54,43 @@ class bunnyApp extends State<MyApp> {
       Align(
         alignment: const Alignment(-0.75, 0.75),
         child: TextButton(
-          child: const Text("▲", textScaleFactor: 2),
+          child: const Text("▲", textScaleFactor: 3),
           onPressed: () async {
             setState(() {
-              y_value = y_value + 5;
+              y_value = y_value + 10;
             });
           },
         ),
       ),
       Align(
-        alignment: const Alignment(-0.75, 0.90),
+        alignment: const Alignment(-0.75, 1.05),
         child: TextButton(
-          child: const Text("▼", textScaleFactor: 2),
+          child: const Text("▼", textScaleFactor: 3),
           onPressed: () async {
             setState(() {
-              y_value = y_value - 5;
+              y_value = y_value - 10;
             });
           },
         ),
       ),
       Align(
-        alignment: const Alignment(-0.825, 0.825),
+        alignment: const Alignment(-0.90, 0.90),
         child: TextButton(
-          child: const Text("◄", textScaleFactor: 2),
+          child: const Text("◄", textScaleFactor: 3),
           onPressed: () async {
             setState(() {
-              x_value = x_value - 5;
+              x_value = x_value - 10;
             });
           },
         ),
       ),
       Align(
-        alignment: const Alignment(-0.675, 0.825),
+        alignment: const Alignment(-0.60, 0.90),
         child: TextButton(
-          child: const Text("►", textScaleFactor: 2),
+          child: const Text("►", textScaleFactor: 3),
           onPressed: () async {
             setState(() {
-              x_value = x_value + 5;
+              x_value = x_value + 10;
             });
           },
         ),

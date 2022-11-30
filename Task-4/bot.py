@@ -20,8 +20,8 @@ def movie_info(movie_name):
 
 
 def movie(data):
-    response = "Title: {}\nYear: {}\nRating: {}\nPoster: {}".format(
-        data.get("Title"), data.get("Year"), data.get("imdbRating"), data.get("Poster"))
+    response = "Title: {}\nYear: {}\nReleased: {}\nRating: {}\nPoster: {}".format(
+        data.get("Title"), data.get("Year"), data.get("Released"), data.get("imdbRating"), data.get("Poster"))
     return response
 
 
@@ -60,8 +60,10 @@ def getMovie(message):
     if (movie_info(movieName) == False):
         bot.reply_to(message, 'Movie not found')
         return
-    bot.reply_to(message, movieData)
-    write_CSV(movieData)
+    else:
+        bot.reply_to(message, 'Movie found')
+        bot.reply_to(message, movieData)
+        write_CSV(movieData)
 
 
 def write_CSV(data):

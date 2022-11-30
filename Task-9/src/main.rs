@@ -1,4 +1,6 @@
+use std::io::Write;
 fn main() {
+    let mut file = std::fs::File::create("Crypto.csv").unwrap();
     let response = reqwest::blocking::get("https://crypto.com/price")
         .unwrap()
         .text()
@@ -14,12 +16,9 @@ fn main() {
 
     let titles = document.select(&title_selector).map(|x| x.inner_html());
 
-    for element in document.select(&name) {
-        println!("Name: {}", element.text().collect::<Vec<_>>().join(""));
-    }
-
     for element in document.select(&price) {
-        println!("Price: {}", element.text().collect::<Vec<_>>().join(""));
+        file.write_all(element.text().collect::<Vec<_>>().join("").as_bytes())
+            .unwrap();
     }
 
     for element in document.select(&change) {
