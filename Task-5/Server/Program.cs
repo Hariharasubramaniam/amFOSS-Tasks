@@ -46,7 +46,7 @@ public class SynchronousSocketListener
                 // check if the varibale is defined or not also even correctly defined
                 bytesRec = handler.Receive(bytes);
                 data = Encoding.ASCII.GetString(bytes, 0, bytesRec);
-                Console.WriteLine("Text received : {0}", data);
+                // Console.WriteLine("Text received : {0}", data);
                 string[] dataArr = data.Split(',');
                 string name = dataArr[0];
                 string intrests = dataArr[1];
@@ -60,15 +60,15 @@ public class SynchronousSocketListener
                 {
                     System.IO.File.AppendAllText(fileName, jsonData);
                 }
-                else if (!System.IO.File.Exists(fileName))
-                {
-                    System.IO.File.WriteAllText(fileName, jsonData);
-                    using (StreamWriter sw = File.AppendText(fileName))
-                    {
-                        sw.WriteLine(jsonData);
-                        // sw.WriteLine("\n");
-                    }
-                }
+                // if (!System.IO.File.Exists(fileName))
+                // {
+                //     System.IO.File.WriteAllText(fileName, jsonData);
+                //     using (StreamWriter sw = File.AppendText(fileName))
+                //     {
+                //         sw.WriteLine(jsonData);
+                //         // sw.WriteLine("\n");
+                //     }
+                // }
                 else
                 {
                     using (StreamWriter sw = File.CreateText(fileName))

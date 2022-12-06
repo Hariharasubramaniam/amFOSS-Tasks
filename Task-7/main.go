@@ -1,18 +1,19 @@
 package main
 
-var Count = 0
+var counter = 0
 
-// Implement the functions here
-func Increment() {
-	Count++
+func increment() {
+	counter++
 }
-func Decrement() {
-	Count--
+
+func decrement() {
+	counter--
 }
+
 func reset() {
-	Count = 0
+	counter = 0
+
 }
 
 func main() {
-
 }

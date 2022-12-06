@@ -1,0 +1,1 @@
+This includes a text file named pass which has the passwords of Levels 1 to 10 of the Bandits:Over the Wire.
